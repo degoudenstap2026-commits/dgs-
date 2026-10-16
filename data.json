@@ -1,0 +1,187 @@
+{
+  "site": {
+    "name": "De Gouden Stap",
+    "tagline": "STIJL · COMFORT · KWALITEIT",
+    "primary": "#405b58",
+    "dark": "#304846",
+    "cream": "#f4f3ee",
+    "text": "#30413f",
+    "footer": "© De Gouden Stap · Stijl, comfort en kwaliteit."
+  },
+  "home": {
+    "eyebrow": "STIJL · COMFORT · KWALITEIT",
+    "title": "Zet de juiste stap",
+    "titleItalic": "met stijl en comfort",
+    "intro": "Welkom bij De Gouden Stap. Ontdek onze zorgvuldig samengestelde collectie schoenen van hoogwaardige kwaliteit voor elke gelegenheid.",
+    "heroImage": "assets/collectie-hero.jpg",
+    "cards": [
+      {
+        "title": "Sneakers",
+        "text": "Comfortabele modellen voor iedere dag.",
+        "image": "assets/sneakers.jpg"
+      },
+      {
+        "title": "Werkschoenen",
+        "text": "Stevige schoenen voor veilig werken.",
+        "image": "assets/werkschoenen-home.jpg"
+      },
+      {
+        "title": "Instappers",
+        "text": "Praktisch, stijlvol en gemakkelijk.",
+        "image": "assets/instappers.jpg"
+      }
+    ],
+    "aboutTitle": "Een stap met aandacht",
+    "aboutText": "Wij verzamelen schoenen voor verschillende momenten in het dagelijks leven: sport, werk, vrije tijd en de eerste stapjes.",
+    "aboutImage": "assets/stijl.jpg",
+    "detailTitle": "Vakmanschap tot in de kleinste details",
+    "detailText": "Een collectie samengesteld met oog voor stijl en draagcomfort.",
+    "ctaTitle": "Klaar voor jouw volgende stap?",
+    "ctaText": "Bekijk alle schoenen in onze collectie."
+  },
+  "categories": [
+    {
+      "title": "Voetbalschoenen",
+      "text": "Nike Mercurial, adidas Predator en Puma Future.",
+      "image": "assets/voetbalschoenen.jpg"
+    },
+    {
+      "title": "Werkschoenen",
+      "text": "Grisport, HKS en Steel Blue.",
+      "image": "assets/werkschoenen.jpg"
+    },
+    {
+      "title": "Kinderen",
+      "text": "Modellen voor kinderen en eerste stapjes.",
+      "image": "assets/kinderen.jpg"
+    },
+    {
+      "title": "Casual",
+      "text": "Sneakers en bekende dagelijkse modellen.",
+      "image": "assets/casual.jpg"
+    },
+    {
+      "title": "Water & strand",
+      "text": "Aquashoes en schoenen voor strand en zwemmen.",
+      "image": "assets/water-strand.jpg"
+    },
+    {
+      "title": "Slippers",
+      "text": "Comfortabele slippers voor warme dagen.",
+      "image": "assets/slippers.jpg"
+    },
+    {
+      "title": "Zakelijk",
+      "text": "Nette schoenen voor zakelijke gelegenheden.",
+      "image": "assets/zakelijk.jpg"
+    }
+  ],
+  "products": [
+    {
+      "name": "Nike Mercurial Vapor 16",
+      "category": "Voetbalschoenen",
+      "image": "assets/collectie-hero.jpg"
+    },
+    {
+      "name": "adidas Predator Elite",
+      "category": "Voetbalschoenen",
+      "image": "assets/collectie-hero.jpg"
+    },
+    {
+      "name": "Puma Future 9",
+      "category": "Voetbalschoenen",
+      "image": "assets/collectie-hero.jpg"
+    },
+    {
+      "name": "Grisport 803 S3",
+      "category": "Werkschoenen",
+      "image": "assets/werkschoenen.jpg"
+    },
+    {
+      "name": "HKS RS 270 S3 BOA",
+      "category": "Werkschoenen",
+      "image": "assets/werkschoenen.jpg"
+    },
+    {
+      "name": "Steel Blue Parkes ZIP S3",
+      "category": "Werkschoenen",
+      "image": "assets/werkschoenen.jpg"
+    },
+    {
+      "name": "Nike Air Force 1",
+      "category": "Casual",
+      "image": "assets/casual.jpg"
+    },
+    {
+      "name": "New Balance 530",
+      "category": "Casual",
+      "image": "assets/casual.jpg"
+    },
+    {
+      "name": "Clarks Wallabee",
+      "category": "Casual",
+      "image": "assets/casual.jpg"
+    },
+    {
+      "name": "Decathlon Aquashoes 100",
+      "category": "Water & strand",
+      "image": "assets/water-strand.jpg"
+    },
+    {
+      "name": "Speedo Zanpa",
+      "category": "Water & strand",
+      "image": "assets/water-strand.jpg"
+    },
+    {
+      "name": "Aqua Sphere Beachwalker",
+      "category": "Water & strand",
+      "image": "assets/water-strand.jpg"
+    },
+    {
+      "name": "Shoesme eerste loopschoenen",
+      "category": "Eerste stapjes",
+      "image": "assets/kinderen.jpg"
+    },
+    {
+      "name": "Shoesme eerste loopschoenen jongens",
+      "category": "Eerste stapjes",
+      "image": "assets/kinderen.jpg"
+    },
+    {
+      "name": "Shoesme sneakers",
+      "category": "Kinderen",
+      "image": "assets/kinderen.jpg"
+    },
+    {
+      "name": "Adidas sportwear badslippers",
+      "category": "Slippers",
+      "image": "assets/slippers.jpg"
+    },
+    {
+      "name": "Braziliaanse Havaianas Brasil Logo",
+      "category": "Slippers",
+      "image": "assets/slippers.jpg"
+    },
+    {
+      "name": "Nike Victori One",
+      "category": "Slippers",
+      "image": "assets/slippers.jpg"
+    },
+    {
+      "name": "Dr. Martens 1460",
+      "category": "Zakelijk",
+      "image": "assets/zakelijk.jpg"
+    },
+    {
+      "name": "Timberland 6 Inch Premium",
+      "category": "Zakelijk",
+      "image": "assets/zakelijk.jpg"
+    }
+  ],
+  "contact": {
+    "title": "Neem contact met ons op",
+    "name": "De Gouden Stap",
+    "email": "info@degoudenstap.nl",
+    "address": "Stijl · Comfort · Kwaliteit"
+  }
+}
